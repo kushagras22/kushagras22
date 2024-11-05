@@ -18,4 +18,6 @@ Currently working on full stack web3 projects.<br>Want to collaborate on more bl
 ---
 [![](https://visitcount.itsvg.in/api?id=kushagras22&icon=5&color=11)](https://visitcount.itsvg.in)
 
+[![An image of @kushagras22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushagras22)](https://holopin.io/@kushagras22)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
