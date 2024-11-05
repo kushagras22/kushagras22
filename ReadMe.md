@@ -18,8 +18,7 @@ Currently working on full stack web3 projects.<br>Want to collaborate on more bl
 ---
 [![](https://visitcount.itsvg.in/api?id=kushagras22&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+ <b>GSSOC(24) Badges 🪶</b><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -34,7 +33,6 @@ Currently working on full stack web3 projects.<br>Want to collaborate on more bl
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
 
 [![An image of @kushagras22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushagras22)](https://holopin.io/@kushagras22)
 
