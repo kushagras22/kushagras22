@@ -1,5 +1,5 @@
 # About Me:
-Currently working on full stack web3 projects.<br>Want to collaborate on more blockchain & web3 projects.<br>Full Stack Dev 
+Currently working on full stack web3 projects.<br>Want to collaborate on more blockchain & web3 projects.<br>Proficient in React, NextJS and other full stack technologies. 
 
 
 #  Socials:
